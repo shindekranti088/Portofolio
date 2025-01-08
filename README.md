@@ -18,8 +18,8 @@ A modern, responsive personal portfolio website showcasing my skills, projects, 
 ## 🛠️ Technologies Used
 
 - **Frontend:**
-  - HTML5
-  - CSS3 (with Flexbox/Grid)
+  - HTML
+  - CSS (with Flexbox/Grid)
   - JavaScript (ES6+)
   - Responsive Design
   - CSS Animations
